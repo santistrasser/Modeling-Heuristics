@@ -4,9 +4,13 @@
 
 ### We are going to:
 minimize 8y1 + 8y2
+
 subject to
+
 2y1 + y2 >= 300
+
 y1 + 2y2 >= 200
+
 y1, y2 >=0
 
 ```r
